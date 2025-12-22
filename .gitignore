@@ -11,8 +11,8 @@ scrapy.log
 
 # Scrapy generated output files (timestamped)
 # Keep structure but ignore generated content
-**/output/processed/*_*.json
-**/output/processed/*_*.csv
+# **/output/processed/*_*.json
+# **/output/processed/*_*.csv
 
 # ============================================
 # Python Development

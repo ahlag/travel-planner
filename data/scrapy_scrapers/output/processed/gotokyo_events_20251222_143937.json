@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "004a0724212f",
+    "name": "More details here",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "More details here",
+    "source_url": "https://www.gotokyo.org/en/spot/index.html",
+    "last_updated_ts": "2025-12-22T14:39:38.195931"
+  },
+  {
+    "id": "b386f044a727",
+    "name": "Fukagawa Hachiman Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Fukagawa Hachiman Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev093/index.html",
+    "last_updated_ts": "2025-12-22T14:39:38.196031"
+  },
+  {
+    "id": "88daaebbfedc",
+    "name": "Sanja Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Sanja Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev030/index.html",
+    "last_updated_ts": "2025-12-22T14:39:38.196101"
+  },
+  {
+    "id": "e61a2b488388",
+    "name": "Kanda Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Kanda Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev029/index.html",
+    "last_updated_ts": "2025-12-22T14:39:38.196163"
+  },
+  {
+    "id": "819db7b5cc11",
+    "name": "Freesia Festival in Hachijojima Island",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Freesia Festival in Hachijojima Island",
+    "source_url": "https://www.gotokyo.org/en/spot/ev167/index.html",
+    "last_updated_ts": "2025-12-22T14:39:38.196225"
+  },
+  {
+    "id": "d0ec72141c61",
+    "name": "Ome Plum Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Ome Plum Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/869/index.html",
+    "last_updated_ts": "2025-12-22T14:39:38.196281"
+  },
+  {
+    "id": "e9434e479fbe",
+    "name": "Izu Oshima Tsubaki Matsuri(Camellia) Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": "morning",
+    "short_description": "Izu Oshima Tsubaki Matsuri(Camellia) Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev112/index.html",
+    "last_updated_ts": "2025-12-22T14:39:38.196334"
+  },
+  {
+    "id": "6c37839db3c1",
+    "name": "Shinjuku Golden Gai",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Shinjuku Golden Gai",
+    "source_url": "https://www.gotokyo.org/en/spot/62/index.html",
+    "last_updated_ts": "2025-12-22T14:39:38.196387"
+  },
+  {
+    "id": "1309012b1a4c",
+    "name": "Mori Art Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Mori Art Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/37/index.html",
+    "last_updated_ts": "2025-12-22T14:39:38.196439"
+  },
+  {
+    "id": "a428cab9fb96",
+    "name": "Ginza Graphic Gallery",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Ginza Graphic Gallery",
+    "source_url": "https://www.gotokyo.org/en/spot/186/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.084731"
+  },
+  {
+    "id": "c3b859cd5ab2",
+    "name": "Tokyu Plaza Ginza",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyu Plaza Ginza",
+    "source_url": "https://www.gotokyo.org/en/spot/663/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.084835"
+  },
+  {
+    "id": "2912c7804aa5",
+    "name": "Ichigokan Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Ichigokan Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/126/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.084898"
+  },
+  {
+    "id": "d93607915d4a",
+    "name": "Marunouchi BRICK SQUARE",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Marunouchi BRICK SQUARE",
+    "source_url": "https://www.gotokyo.org/en/spot/371/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.084952"
+  },
+  {
+    "id": "9c7ec4d2863a",
+    "name": "Shin Marunouchi Building",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Shin Marunouchi Building",
+    "source_url": "https://www.gotokyo.org/en/spot/368/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085004"
+  },
+  {
+    "id": "a2f939b6190b",
+    "name": "First Avenue Tokyo Station",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "First Avenue Tokyo Station",
+    "source_url": "https://www.gotokyo.org/en/spot/660/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085056"
+  },
+  {
+    "id": "7a4ff4302c8a",
+    "name": "Mitsui Memorial Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Mitsui Memorial Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/133/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085107"
+  },
+  {
+    "id": "bbde049d1400",
+    "name": "Nihombashi Mitsukoshi Main Store",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Nihombashi Mitsukoshi Main Store",
+    "source_url": "https://www.gotokyo.org/en/spot/82/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085159"
+  },
+  {
+    "id": "e2b899867cb1",
+    "name": "The Edo-Tokyo Open-Air Architectural Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "The Edo-Tokyo Open-Air Architectural Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/417/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085211"
+  },
+  {
+    "id": "58ede3f71e98",
+    "name": "Tokyo Photographic Art Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyo Photographic Art Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/1744/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085262"
+  },
+  {
+    "id": "44188528fff1",
+    "name": "Yebisu Garden Place",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Yebisu Garden Place",
+    "source_url": "https://www.gotokyo.org/en/spot/49/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085312"
+  },
+  {
+    "id": "45728c8bf63c",
+    "name": "Tsukiji Hongan-ji Temple",
+    "type": "event_venue",
+    "category_tags": [
+      "Traditional"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Traditional"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tsukiji Hongan-ji Temple",
+    "source_url": "https://www.gotokyo.org/en/spot/12/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085363"
+  },
+  {
+    "id": "f7ac11b05a57",
+    "name": "Zoshigaya Kishimojindo Temple",
+    "type": "event_venue",
+    "category_tags": [
+      "Traditional"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Traditional"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Zoshigaya Kishimojindo Temple",
+    "source_url": "https://www.gotokyo.org/en/spot/469/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085412"
+  },
+  {
+    "id": "03dc12f4859f",
+    "name": "Tokyo Metropolitan Theatre",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyo Metropolitan Theatre",
+    "source_url": "https://www.gotokyo.org/en/spot/364/index.html",
+    "last_updated_ts": "2025-12-22T14:39:39.085461"
+  },
+  {
+    "id": "7041e576ecbe",
+    "name": "Ninja Trick House",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Ninja Trick House",
+    "source_url": "https://www.gotokyo.org/en/spot/145/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.101692"
+  },
+  {
+    "id": "66ce43b0f29f",
+    "name": "Shinjuku Gyoen National Garden",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Shinjuku Gyoen National Garden",
+    "source_url": "https://www.gotokyo.org/en/spot/75/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.101780"
+  },
+  {
+    "id": "f27e108379e1",
+    "name": "Tokyo Metropolitan Government Building",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyo Metropolitan Government Building",
+    "source_url": "https://www.gotokyo.org/en/spot/74/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.101847"
+  },
+  {
+    "id": "4676c2d31d98",
+    "name": "Shinjuku Expressway Bus Terminal",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Shinjuku Expressway Bus Terminal",
+    "source_url": "https://www.gotokyo.org/en/spot/112/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.101905"
+  },
+  {
+    "id": "6ff010b686d1",
+    "name": "Kappabashi Kitchenware Town",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Kappabashi Kitchenware Town",
+    "source_url": "https://www.gotokyo.org/en/spot/59/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.101963"
+  },
+  {
+    "id": "96ea87298b7a",
+    "name": "Hama-rikyu Gardens",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "morning",
+    "short_description": "Hama-rikyu Gardens",
+    "source_url": "https://www.gotokyo.org/en/spot/20/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102017"
+  },
+  {
+    "id": "c71b7f2d8909",
+    "name": "Asakusa Engei Hall",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Asakusa Engei Hall",
+    "source_url": "https://www.gotokyo.org/en/spot/156/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102079"
+  },
+  {
+    "id": "85f621312a91",
+    "name": "Nakamise shopping street",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "morning",
+    "short_description": "Nakamise shopping street",
+    "source_url": "https://www.gotokyo.org/en/spot/73/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102129"
+  },
+  {
+    "id": "a459b0c79f4d",
+    "name": "Sensoji Temple",
+    "type": "event_venue",
+    "category_tags": [
+      "Traditional"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Traditional"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Sensoji Temple",
+    "source_url": "https://www.gotokyo.org/en/spot/15/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102185"
+  },
+  {
+    "id": "8b567b545c67",
+    "name": "Ryogoku Fireworks Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Ryogoku Fireworks Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/458/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102238"
+  },
+  {
+    "id": "68dac5cfe430",
+    "name": "Sumida Hokusai Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Sumida Hokusai Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/138/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102291"
+  },
+  {
+    "id": "599e2041b861",
+    "name": "Tokyo Metropolitan Edo-Tokyo Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyo Metropolitan Edo-Tokyo Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/1745/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102344"
+  },
+  {
+    "id": "8299287538ad",
+    "name": "Tobu Museum of Transport and Culture",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tobu Museum of Transport and Culture",
+    "source_url": "https://www.gotokyo.org/en/spot/349/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102395"
+  },
+  {
+    "id": "3f9603ddf9be",
+    "name": "Shitamachi Ninjo Kirakira Tachibana Shotengai",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "morning",
+    "short_description": "Shitamachi Ninjo Kirakira Tachibana Shotengai",
+    "source_url": "https://www.gotokyo.org/en/spot/915/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102444"
+  },
+  {
+    "id": "5fe0f8f0307f",
+    "name": "Tokyo Skytree Town",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyo Skytree Town",
+    "source_url": "https://www.gotokyo.org/en/spot/80/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102496"
+  },
+  {
+    "id": "ea09f8ee5440",
+    "name": "Urban Dock LaLaport Toyosu",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Urban Dock LaLaport Toyosu",
+    "source_url": "https://www.gotokyo.org/en/spot/522/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102545"
+  },
+  {
+    "id": "5e2c8f37d46a",
+    "name": "Tsukiji Fish Market",
+    "type": "event_venue",
+    "category_tags": [
+      "Food"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Food"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tsukiji Fish Market",
+    "source_url": "https://www.gotokyo.org/en/spot/65/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102595"
+  },
+  {
+    "id": "a07a2861da93",
+    "name": "Toyosu Fish Market",
+    "type": "event_venue",
+    "category_tags": [
+      "Food"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Food"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Toyosu Fish Market",
+    "source_url": "https://www.gotokyo.org/en/spot/1743/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102645"
+  },
+  {
+    "id": "b171e2d29fff",
+    "name": "Fukagawa Edo Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Fukagawa Edo Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/631/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102694"
+  },
+  {
+    "id": "c803642b2db8",
+    "name": "Museum of Contemporary Art Tokyo",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Museum of Contemporary Art Tokyo",
+    "source_url": "https://www.gotokyo.org/en/spot/141/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102743"
+  },
+  {
+    "id": "93bc695f94e6",
+    "name": "Kiyosumi Gardens",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Kiyosumi Gardens",
+    "source_url": "https://www.gotokyo.org/en/spot/25/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102793"
+  },
+  {
+    "id": "b6f6bda88015",
+    "name": "Kiba Park",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Kiba Park",
+    "source_url": "https://www.gotokyo.org/en/spot/1102/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102843"
+  },
+  {
+    "id": "3a04f89bc50f",
+    "name": "Odaiba Marine Park",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Odaiba Marine Park",
+    "source_url": "https://www.gotokyo.org/en/spot/39/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102893"
+  },
+  {
+    "id": "76774623831c",
+    "name": "Statue of Liberty",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Statue of Liberty",
+    "source_url": "https://www.gotokyo.org/en/spot/363/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102944"
+  },
+  {
+    "id": "634cdbd7cb0c",
+    "name": "the National Museum of Emerging Science and Innovation",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "the National Museum of Emerging Science and Innovation",
+    "source_url": "https://www.gotokyo.org/en/spot/5/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.102994"
+  },
+  {
+    "id": "0168b7bfcbe2",
+    "name": "Legoland Discovery Center Tokyo",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Legoland Discovery Center Tokyo",
+    "source_url": "https://www.gotokyo.org/en/spot/468/index.html",
+    "last_updated_ts": "2025-12-22T14:39:40.103044"
+  },
+  {
+    "id": "18697c7a93ef",
+    "name": "Ueno Sakuragi Atari",
+    "type": "event_venue",
+    "category_tags": [
+      "Seasonal"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Seasonal"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Ueno Sakuragi Atari",
+    "source_url": "https://www.gotokyo.org/en/spot/230/index.html",
+    "last_updated_ts": "2025-12-22T14:39:41.128057"
+  },
+  {
+    "id": "137e81bf245c",
+    "name": "Sunshine 60 Observatory Tenbou-Park",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Sunshine 60 Observatory Tenbou-Park",
+    "source_url": "https://www.gotokyo.org/en/spot/447/index.html",
+    "last_updated_ts": "2025-12-22T14:39:43.530730"
+  },
+  {
+    "id": "e1da09185895",
+    "name": "Azalea Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Azalea Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev186/index.html",
+    "last_updated_ts": "2025-12-22T14:39:45.975731"
+  },
+  {
+    "id": "96b800776ef5",
+    "name": "National Museum of Nature and Science",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "National Museum of Nature and Science",
+    "source_url": "https://www.gotokyo.org/en/spot/140/index.html",
+    "last_updated_ts": "2025-12-22T14:39:45.975971"
+  },
+  {
+    "id": "2a3729d5f439",
+    "name": "Nezu Shrine",
+    "type": "event_venue",
+    "category_tags": [
+      "Traditional"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Traditional"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Nezu Shrine",
+    "source_url": "https://www.gotokyo.org/en/spot/70/index.html",
+    "last_updated_ts": "2025-12-22T14:39:47.343776"
+  },
+  {
+    "id": "61414e9757ea",
+    "name": "Takehisa Yumeji Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Takehisa Yumeji Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/569/index.html",
+    "last_updated_ts": "2025-12-22T14:39:48.583354"
+  },
+  {
+    "id": "3c1baa4fabac",
+    "name": "Asakura Museum of Sculpture",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Asakura Museum of Sculpture",
+    "source_url": "https://www.gotokyo.org/en/spot/508/index.html",
+    "last_updated_ts": "2025-12-22T14:39:50.114992"
+  },
+  {
+    "id": "cbaee9a4a8f4",
+    "name": "Tokyo National Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyo National Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/123/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.487875"
+  },
+  {
+    "id": "70b519040451",
+    "name": "Rikugien Gardens",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Rikugien Gardens",
+    "source_url": "https://www.gotokyo.org/en/spot/22/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488000"
+  },
+  {
+    "id": "5233c71a7685",
+    "name": "Koganji Temple",
+    "type": "event_venue",
+    "category_tags": [
+      "Traditional"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Traditional"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Koganji Temple",
+    "source_url": "https://www.gotokyo.org/en/spot/46/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488062"
+  },
+  {
+    "id": "b65323d139c3",
+    "name": "Shibuya Scramble Square",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "morning",
+    "short_description": "Shibuya Scramble Square",
+    "source_url": "https://www.gotokyo.org/en/spot/1749/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488116"
+  },
+  {
+    "id": "f84c57022bbc",
+    "name": "Shibuya Scramble Crossing",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "morning",
+    "short_description": "Shibuya Scramble Crossing",
+    "source_url": "https://www.gotokyo.org/en/spot/78/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488169"
+  },
+  {
+    "id": "c52211eb3c07",
+    "name": "Yoyogi Park",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Yoyogi Park",
+    "source_url": "https://www.gotokyo.org/en/spot/76/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488222"
+  },
+  {
+    "id": "f9886b4baacb",
+    "name": "Tokyu Plaza Omotesando Harajuku",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyu Plaza Omotesando Harajuku",
+    "source_url": "https://www.gotokyo.org/en/spot/695/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488272"
+  },
+  {
+    "id": "ecc60367ec2f",
+    "name": "Taro Okamoto Memorial Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "morning",
+    "short_description": "Taro Okamoto Memorial Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/160/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488323"
+  },
+  {
+    "id": "e7029c4c5cfb",
+    "name": "Nezu Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Nezu Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/1/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488373"
+  },
+  {
+    "id": "812a82bd7398",
+    "name": "Watari Museum of Contemporary Art",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Watari Museum of Contemporary Art",
+    "source_url": "https://www.gotokyo.org/en/spot/169/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488424"
+  },
+  {
+    "id": "21a7126820c3",
+    "name": "Musashi Koyama Shopping Street Palm",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "morning",
+    "short_description": "Musashi Koyama Shopping Street Palm",
+    "source_url": "https://www.gotokyo.org/en/spot/704/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488643"
+  },
+  {
+    "id": "c126f4399993",
+    "name": "Togoshi Ginza Shopping District",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Togoshi Ginza Shopping District",
+    "source_url": "https://www.gotokyo.org/en/spot/174/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488700"
+  },
+  {
+    "id": "fc0f5ac4fad4",
+    "name": "Tokyo City Keiba",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyo City Keiba",
+    "source_url": "https://www.gotokyo.org/en/spot/348/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488755"
+  },
+  {
+    "id": "6d8f8526a4d7",
+    "name": "Shinagawa Shrine",
+    "type": "event_venue",
+    "category_tags": [
+      "Traditional"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Traditional"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Shinagawa Shrine",
+    "source_url": "https://www.gotokyo.org/en/spot/1064/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488806"
+  },
+  {
+    "id": "b55819fe3228",
+    "name": "Maxell Aqua Park",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Maxell Aqua Park",
+    "source_url": "https://www.gotokyo.org/en/spot/294/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488856"
+  },
+  {
+    "id": "c640dc3d5d05",
+    "name": "Suntory Museum of Art",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Suntory Museum of Art",
+    "source_url": "https://www.gotokyo.org/en/spot/129/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488906"
+  },
+  {
+    "id": "e14f76bda013",
+    "name": "The National Art Center, Tokyo",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "The National Art Center, Tokyo",
+    "source_url": "https://www.gotokyo.org/en/spot/50/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.488955"
+  },
+  {
+    "id": "c491d399f18b",
+    "name": "Azabu-juban Noryo Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Azabu-juban Noryo Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev095/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.489007"
+  },
+  {
+    "id": "25b5a16a0f6e",
+    "name": "Tokyo Metropolitan Central Library",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Tokyo Metropolitan Central Library",
+    "source_url": "https://www.gotokyo.org/en/spot/352/index.html",
+    "last_updated_ts": "2025-12-22T14:39:51.489059"
+  },
+  {
+    "id": "9e05e3253606",
+    "name": "the Ueno Royal Museum",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "the Ueno Royal Museum",
+    "source_url": "https://www.gotokyo.org/en/spot/557/index.html",
+    "last_updated_ts": "2025-12-22T14:39:52.412792"
+  },
+  {
+    "id": "60ad36b70051",
+    "name": "The National Museum of Western Art",
+    "type": "event_venue",
+    "category_tags": [
+      "Exhibition"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Exhibition"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "The National Museum of Western Art",
+    "source_url": "https://www.gotokyo.org/en/spot/120/index.html",
+    "last_updated_ts": "2025-12-22T14:39:53.633835"
+  },
+  {
+    "id": "873849e8c512",
+    "name": "Ueno Park",
+    "type": "event_venue",
+    "category_tags": [
+      "Event"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Event"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Ueno Park",
+    "source_url": "https://www.gotokyo.org/en/spot/482/index.html",
+    "last_updated_ts": "2025-12-22T14:39:54.168100"
+  }
+]
