@@ -1,9 +1,0 @@
-Content-Length: 292
-Server: openresty
-Date: Mon, 22 Dec 2025 04:13:21 GMT
-Content-Type: text/html; charset=iso-8859-1
-Content-Security-Policy: frame-ancestors 'self' https://discover-tokyo.jp
-X-Xss-Protection: 1; mode=block
-X-Content-Type-Options: nosniff
-Strict-Transport-Security: max-age=31536000
-Location: https://www.gotokyo.org/en/see-and-do/arts-and-design/art-and-exhibitions/index.html
