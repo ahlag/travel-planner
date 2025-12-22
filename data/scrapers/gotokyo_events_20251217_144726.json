@@ -1,0 +1,492 @@
+[
+  {
+    "id": "e9434e479fbe",
+    "name": "Izu Oshima Tsubaki Matsuri(Camellia) Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": "morning",
+    "short_description": "Izu Oshima Tsubaki Matsuri(Camellia) Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev112/index.html",
+    "last_updated_ts": "2025-12-17T14:47:03.907277"
+  },
+  {
+    "id": "d0ec72141c61",
+    "name": "Ome Plum Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Ome Plum Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/869/index.html",
+    "last_updated_ts": "2025-12-17T14:47:05.046190"
+  },
+  {
+    "id": "819db7b5cc11",
+    "name": "Freesia Festival in Hachijojima Island",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival",
+      "Free Entry"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Freesia Festival in Hachijojima Island",
+    "source_url": "https://www.gotokyo.org/en/spot/ev167/index.html",
+    "last_updated_ts": "2025-12-17T14:47:06.173789"
+  },
+  {
+    "id": "e61a2b488388",
+    "name": "Kanda Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Kanda Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev029/index.html",
+    "last_updated_ts": "2025-12-17T14:47:06.762395"
+  },
+  {
+    "id": "88daaebbfedc",
+    "name": "Sanja Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Sanja Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev030/index.html",
+    "last_updated_ts": "2025-12-17T14:47:07.336767"
+  },
+  {
+    "id": "b386f044a727",
+    "name": "Fukagawa Hachiman Festival",
+    "type": "event_venue",
+    "category_tags": [
+      "Festival"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Festival"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 180,
+    "best_time_of_day": null,
+    "short_description": "Fukagawa Hachiman Festival",
+    "source_url": "https://www.gotokyo.org/en/spot/ev093/index.html",
+    "last_updated_ts": "2025-12-17T14:47:07.920687"
+  },
+  {
+    "id": "d434b88f42bb",
+    "name": "Nov 15, 2025 - Nov 24, 2025\n\n\n\"Laid-Back Camp△\" 10th Anniversary Exhibition＼ I collected camping memories／",
+    "type": "event_venue",
+    "category_tags": [
+      "Nov 15, 2025 - Nov 24, 2025"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Nov 15, 2025 - Nov 24, 2025"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "morning",
+    "short_description": "\"Laid-Back Camp△\" 10th Anniversary Exhibition＼ I collected camping memories／",
+    "source_url": "https://www.gotokyo.org/en/spot/ev361/index.html",
+    "last_updated_ts": "2025-12-17T14:47:12.334332"
+  },
+  {
+    "id": "6175f33545f9",
+    "name": "Dec 5, 2025 - Mar 15, 2026\n\n\nOiran Night Rock ―The Pulse of Tradition",
+    "type": "event_venue",
+    "category_tags": [
+      "Dec 5, 2025 - Mar 15, 2026"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Dec 5, 2025 - Mar 15, 2026",
+      "Nightlife"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "evening",
+    "short_description": "Oiran Night Rock ―The Pulse of Tradition",
+    "source_url": "https://www.gotokyo.org/en/spot/ev325/index.html",
+    "last_updated_ts": "2025-12-17T14:47:12.900350"
+  },
+  {
+    "id": "809173d4af55",
+    "name": "Dec 17, 2025 - Dec 19, 2025\n\n\nSensoji Temple Year-end Market (Hagoita Market)",
+    "type": "event_venue",
+    "category_tags": [
+      "Dec 17, 2025 - Dec 19, 2025"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Dec 17, 2025 - Dec 19, 2025"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": null,
+    "short_description": "Sensoji Temple Year-end Market (Hagoita Market)",
+    "source_url": "https://www.gotokyo.org/en/spot/ev152/index.html",
+    "last_updated_ts": "2025-12-17T14:47:13.475222"
+  },
+  {
+    "id": "e1590c21d7e6",
+    "name": "Nov 17, 2025 - Dec 25, 2025\n\n\nTOKYO TOWER Winter Fantasy 2025 Little Twin Stars Xmas Illumination",
+    "type": "event_venue",
+    "category_tags": [
+      "Nov 17, 2025 - Dec 25, 2025"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Nov 17, 2025 - Dec 25, 2025",
+      "Nightlife"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "evening",
+    "short_description": "TOKYO TOWER Winter Fantasy 2025 Little Twin Stars Xmas Illumination",
+    "source_url": "https://www.gotokyo.org/en/spot/ev135/index.html",
+    "last_updated_ts": "2025-12-17T14:47:14.063644"
+  },
+  {
+    "id": "df6f59134e50",
+    "name": "Dec 5, 2025 - Jan 31, 2026\n\n\nMeguro River Illuminations 2025",
+    "type": "event_venue",
+    "category_tags": [
+      "Dec 5, 2025 - Jan 31, 2026"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Nightlife",
+      "Dec 5, 2025 - Jan 31, 2026"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "evening",
+    "short_description": "Meguro River Illuminations 2025",
+    "source_url": "https://www.gotokyo.org/en/spot/ev125/index.html",
+    "last_updated_ts": "2025-12-17T14:47:14.603665"
+  },
+  {
+    "id": "b020baca1b71",
+    "name": "Nov 12, 2025 - Feb 15, 2026\n\n\nSHINJUKU SOUTH ILLUMINATION",
+    "type": "event_venue",
+    "category_tags": [
+      "Nov 12, 2025 - Feb 15, 2026"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Nov 12, 2025 - Feb 15, 2026",
+      "Nightlife"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "evening",
+    "short_description": "SHINJUKU SOUTH ILLUMINATION",
+    "source_url": "https://www.gotokyo.org/en/spot/ev134/index.html",
+    "last_updated_ts": "2025-12-17T14:47:15.193313"
+  },
+  {
+    "id": "717202bc66b6",
+    "name": "Nov 28, 2025 - Dec 24, 2025\n\n\nNishi-Shinjuku 1-Chome Ginkgo Trees Light Display",
+    "type": "event_venue",
+    "category_tags": [
+      "Nov 28, 2025 - Dec 24, 2025"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Nov 28, 2025 - Dec 24, 2025"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Nishi-Shinjuku 1-Chome Ginkgo Trees Light Display",
+    "source_url": "https://www.gotokyo.org/en/spot/ev307/index.html",
+    "last_updated_ts": "2025-12-17T14:47:15.775144"
+  },
+  {
+    "id": "ddcac6c57ce6",
+    "name": "Dec 6, 2025\n\n\nOji Bamboo Rake Fair (Kumade-ichi)",
+    "type": "event_venue",
+    "category_tags": [
+      "Dec 6, 2025"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Dec 6, 2025"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "morning",
+    "short_description": "Oji Bamboo Rake Fair (Kumade-ichi)",
+    "source_url": "https://www.gotokyo.org/en/spot/ev127/index.html",
+    "last_updated_ts": "2025-12-17T14:47:16.387196"
+  },
+  {
+    "id": "41046744d08a",
+    "name": "Dec 15, 2025 - Jan 16, 2026\n\n\nSetagaya Boro-ichi (Flea Market)",
+    "type": "event_venue",
+    "category_tags": [
+      "Dec 15, 2025 - Jan 16, 2026"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Dec 15, 2025 - Jan 16, 2026"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": null,
+    "short_description": "Setagaya Boro-ichi (Flea Market)",
+    "source_url": "https://www.gotokyo.org/en/spot/ev114/index.html",
+    "last_updated_ts": "2025-12-17T14:47:16.924750"
+  },
+  {
+    "id": "2cedc709abb1",
+    "name": "Dec 22, 2025 - Jan 7, 2026\n\n\nMukojima-Hyakkaen Gardens: Seven Plants of Spring Display",
+    "type": "event_venue",
+    "category_tags": [
+      "Dec 22, 2025 - Jan 7, 2026"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Dec 22, 2025 - Jan 7, 2026"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "Mukojima-Hyakkaen Gardens: Seven Plants of Spring Display",
+    "source_url": "https://www.gotokyo.org/en/spot/ev109/index.html",
+    "last_updated_ts": "2025-12-17T14:47:17.526709"
+  },
+  {
+    "id": "4a4c28b814bc",
+    "name": "Nov 13, 2025 - Feb 15, 2026\n\n\nMarunouchi Illuminations 2025",
+    "type": "event_venue",
+    "category_tags": [
+      "Nov 13, 2025 - Feb 15, 2026"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Nov 13, 2025 - Feb 15, 2026",
+      "Nightlife"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "evening",
+    "short_description": "Marunouchi Illuminations 2025",
+    "source_url": "https://www.gotokyo.org/en/spot/ev002/index.html",
+    "last_updated_ts": "2025-12-17T14:47:18.108884"
+  },
+  {
+    "id": "93cf9f14bd3d",
+    "name": "Nov 28, 2025 - Dec 9, 2025\n\n\nSpecial Night Viewing of the Autumn Leaves at Rikugien Gardens",
+    "type": "event_venue",
+    "category_tags": [
+      "Nov 28, 2025 - Dec 9, 2025"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Nightlife",
+      "Nov 28, 2025 - Dec 9, 2025"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "evening",
+    "short_description": "Special Night Viewing of the Autumn Leaves at Rikugien Gardens",
+    "source_url": "https://www.gotokyo.org/en/spot/ev126/index.html",
+    "last_updated_ts": "2025-12-17T14:47:18.695895"
+  },
+  {
+    "id": "193fa8f1ec19",
+    "name": "May 22, 2025 - Mar 31, 2026\nFree Cultural Experiences Just Steps from Haneda Airport!",
+    "type": "event_venue",
+    "category_tags": [
+      "May 22, 2025 - Mar 31, 2026"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "May 22, 2025 - Mar 31, 2026",
+      "Free Entry"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": null,
+    "short_description": "May 22, 2025 - Mar 31, 2026\nFree Cultural Experiences Just Steps from Haneda Airport!",
+    "source_url": "https://www.gotokyo.org/en/event/ota/20250522.html",
+    "last_updated_ts": "2025-12-17T14:47:24.716802"
+  },
+  {
+    "id": "ff24f4c52219",
+    "name": "May 23, 2025 - Mar 31, 2026\nDiscover Ota City Through Stamp Collecting",
+    "type": "event_venue",
+    "category_tags": [
+      "Discover Ota City Through Stamp Collecting",
+      "May 23, 2025 - Mar 31, 2026"
+    ],
+    "neighborhood": "Tokyo",
+    "price_range": null,
+    "halal": "unknown",
+    "cuisine": null,
+    "interest_tags": [
+      "Discover Ota City Through Stamp Collecting",
+      "May 23, 2025 - Mar 31, 2026"
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    },
+    "typical_duration_minutes": 90,
+    "best_time_of_day": "morning",
+    "short_description": "May 23, 2025 - Mar 31, 2026\nDiscover Ota City Through Stamp Collecting",
+    "source_url": "https://www.gotokyo.org/en/event/ota/20250613stamp.html",
+    "last_updated_ts": "2025-12-17T14:47:25.285578"
+  }
+]
