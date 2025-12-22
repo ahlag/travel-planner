@@ -1,0 +1,12 @@
+Server: openresty
+Date: Mon, 22 Dec 2025 05:10:08 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkR2am82ajA0SWZWcUtZZjVDV0xHVHc9PSIsInZhbHVlIjoiN2U5RFR2SEw5WFFTTHdWd1RxVGlSRC85dVViZm5ZeDhUZUNVd3pvRktPMTVqLzhhQmQ0Nyt5d1RqUTE0d0hkUk0rVHBUbjlxR3FLT1QxbEh0eHMrV2Z4czlydWU2cHhNb3ZnUC82QXBEL0RrYUVIYnRqU0Z2WGhCNktXSCt0Ti8iLCJtYWMiOiI3ZjJjN2I2NjZhNGNlYTMxZDE5OTZhN2E3ZjViOTliOTQ3NjY4YTY3NDc5YTBmNzFhMDQ2MWI3NDM5ZjIxNGQwIiwidGFnIjoiIn0%3D; expires=Mon, 22-Dec-2025 07:10:08 GMT; Max-Age=7200; path=/; samesite=lax
+Set-Cookie: go_tokyo_session=eyJpdiI6IitiaElHZlpZNWMzRSttVFM4Vy8zUHc9PSIsInZhbHVlIjoiblIrVHk1Lzk1NlFwbTZwbk5wRzRsKzJVMHRaN01qQUdkRUN0aEdzR1dLSzB4SmZhTTZpejR0T1dWc0diRzREdVFDNFJoVjZ1RW80QWtnSjhCamp6QWNiMGNRdzlyY1habWgvS2QzZmlHT1VOdDRrL3lkMWVQNzN6VFdsSEh6MGkiLCJtYWMiOiI1OTBiMTA1ZDdmYjFiYzUyMTY1NTI1MmE5YjBjMmI5ZjkxZWMyZTZkODYxMGEzZWExOWEzZTRiMDEwZWExOTMyIiwidGFnIjoiIn0%3D; expires=Mon, 22-Dec-2025 07:10:08 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Content-Security-Policy: frame-ancestors 'self' https://discover-tokyo.jp
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Content-Encoding: gzip
