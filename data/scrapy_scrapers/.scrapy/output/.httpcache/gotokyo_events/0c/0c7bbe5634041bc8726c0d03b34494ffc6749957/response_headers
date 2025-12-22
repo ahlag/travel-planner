@@ -1,0 +1,11 @@
+Server: openresty
+Date: Mon, 22 Dec 2025 05:10:37 GMT
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Last-Modified: Fri, 18 Jul 2025 09:09:37 GMT
+Etag: W/"70a9-63a307c3fe6d7"
+Cache-Status: oke; hit; ttl=300
+Content-Encoding: gzip

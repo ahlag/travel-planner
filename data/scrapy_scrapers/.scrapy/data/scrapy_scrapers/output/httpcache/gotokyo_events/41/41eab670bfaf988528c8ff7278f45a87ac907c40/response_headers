@@ -1,0 +1,12 @@
+Server: openresty
+Date: Mon, 22 Dec 2025 04:13:31 GMT
+Content-Type: text/html
+Vary: Accept-Encoding
+Content-Security-Policy: frame-ancestors 'self' https://discover-tokyo.jp
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Last-Modified: Wed, 19 Nov 2025 01:13:02 GMT
+Etag: W/"69f0-643e8482e711c"
+Cache-Status: oke; hit; ttl=118
+Content-Encoding: gzip
