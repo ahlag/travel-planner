@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "3ce3b3f54c0a",
+    "name": "L'Atelier à Ma Façon",
+    "type": "restaurant",
+    "category_tags": [
+      "Cafe"
+    ],
+    "neighborhood": "Kaminoge Sta.",
+    "price_range": 3,
+    "halal": "unknown",
+    "cuisine": [
+      "Cafe"
+    ],
+    "interest_tags": [
+      "Cafe",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.61260433791359,
+      "lon": 139.63881168261892
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Sweets TOKYO \"Tabelog 100\" 2023 Selected for Tabelog Sweets TOKYO \"Tabelog 100\" 2023 Selected for Tabelog Sweets TOKYO \"Tabelo.... Specializes in Sweets, Cafe.",
+    "source_url": "https://tabelog.com/en/tokyo/A1317/A131715/13242556/",
+    "last_updated_ts": "2025-12-22T21:55:07.224319"
+  },
+  {
+    "id": "cb87042c9021",
+    "name": "BAR CENTIFOLIA",
+    "type": "restaurant",
+    "category_tags": [
+      "Cafe"
+    ],
+    "neighborhood": "Azabu Juban Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Cafe"
+    ],
+    "interest_tags": [
+      "Cafe",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.65636415872155,
+      "lon": 139.73420054415584
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Specializes in Bar, Cafe.",
+    "source_url": "https://tabelog.com/en/tokyo/A1307/A130702/13213226/",
+    "last_updated_ts": "2025-12-22T21:55:08.987632"
+  },
+  {
+    "id": "119a587558f9",
+    "name": "Le Pristine Restaurant Tokyo",
+    "type": "restaurant",
+    "category_tags": [
+      "Cafe"
+    ],
+    "neighborhood": "Toranomon Hills Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Cafe"
+    ],
+    "interest_tags": [
+      "Cafe",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.66754317871833,
+      "lon": 139.74641091426022
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Directly connected to Toranomon Hills Station ◆ Experience a new sensation of \"immersive gastronomy\" amidst Tokyo's ever-evolving landscape. Located on the first floor of Toranomon Hills Hotel, our restaurant offers a unique dining experience infused with the deep passion of Michelin-starred chef Sergio Herman for music, art, design, and f...Read moreashion. Paying homage to the traditions of Zeeland in the Netherlands, where the chef has roots, Sergio presents his original style of cuisine known as \"NEW ITALIAN,\" elevating pure Italian flavors. Perfect for various occasions, including business meetings and girls' nights out.",
+    "source_url": "https://tabelog.com/en/tokyo/A1308/A130802/13292180/",
+    "last_updated_ts": "2025-12-22T21:55:10.769645"
+  },
+  {
+    "id": "018a2853cdcd",
+    "name": "patisserie Paris S'eveille",
+    "type": "restaurant",
+    "category_tags": [
+      "Cafe"
+    ],
+    "neighborhood": "Jiyugaoka Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Cafe"
+    ],
+    "interest_tags": [
+      "Cafe",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.606971537926015,
+      "lon": 139.66658228254258
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2023 Bronze winner The Tabelog Award 2023 Bronze winner The Tabelog Award 2022 Bronze winner The Tabelog Award 2022 Bronze winner.... Specializes in Cake, Cafe, Bread.",
+    "source_url": "https://tabelog.com/en/tokyo/A1317/A131703/13005198/",
+    "last_updated_ts": "2025-12-22T21:55:12.578097"
+  },
+  {
+    "id": "4dd46ed3e491",
+    "name": "Au Bon Vieux Temps Oyamadai Ten",
+    "type": "restaurant",
+    "category_tags": [
+      "Cafe"
+    ],
+    "neighborhood": "Oyamadai Sta.",
+    "price_range": 3,
+    "halal": "unknown",
+    "cuisine": [
+      "Cafe"
+    ],
+    "interest_tags": [
+      "Cafe",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.60407422872851,
+      "lon": 139.65176784368546
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Sweets TOKYO \"Tabelog 100\" 2023 Selected for Tabelog Sweets TOKYO \"Tabelog 100\" 2023 Selected for Tabelog Sweets TOKYO \"Tabelo.... Specializes in Cake, Side dishes, Delicatessen, Cafe.",
+    "source_url": "https://tabelog.com/en/tokyo/A1317/A131715/13181654/",
+    "last_updated_ts": "2025-12-22T21:55:14.731697"
+  },
+  {
+    "id": "0fa061f6ce04",
+    "name": "Udon Maruka",
+    "type": "restaurant",
+    "category_tags": [
+      "Udon"
+    ],
+    "neighborhood": "Jimbocho Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Udon"
+    ],
+    "interest_tags": [
+      "Udon",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.696707437898816,
+      "lon": 139.7601316833834
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Udon (Wheat noodles) EAST \"Tabelog 100\" 2024 Selected for Tabelog Udon (Wheat noodles) EAST \"Tabelog 100\" 2024 Selected for Ta.... Specializes in Udon (Wheat noodles).",
+    "source_url": "https://tabelog.com/en/tokyo/A1310/A131003/13000629/",
+    "last_updated_ts": "2025-12-22T21:55:27.717961"
+  },
+  {
+    "id": "eef8d61ba8ad",
+    "name": "Murayama Mangetsu Udon",
+    "type": "restaurant",
+    "category_tags": [
+      "Udon"
+    ],
+    "neighborhood": "Hakonegasaki Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Udon"
+    ],
+    "interest_tags": [
+      "Udon",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.75773073854417,
+      "lon": 139.37935771542848
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Udon (Wheat noodles) EAST \"Tabelog 100\" 2024 Selected for Tabelog Udon (Wheat noodles) EAST \"Tabelog 100\" 2024 Selected for Ta.... Specializes in Udon (Wheat noodles).",
+    "source_url": "https://tabelog.com/en/tokyo/A1329/A132901/13026307/",
+    "last_updated_ts": "2025-12-22T21:55:31.264876"
+  },
+  {
+    "id": "0bc80cbc46db",
+    "name": "Sanuki Udon Iwai",
+    "type": "restaurant",
+    "category_tags": [
+      "Udon"
+    ],
+    "neighborhood": "Jujo Sta.",
+    "price_range": 1,
+    "halal": "unknown",
+    "cuisine": [
+      "Udon"
+    ],
+    "interest_tags": [
+      "Udon",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.76154027864987,
+      "lon": 139.71887692522898
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Udon (Wheat noodles) EAST \"Tabelog 100\" 2024 Selected for Tabelog Udon (Wheat noodles) EAST \"Tabelog 100\" 2024 Selected for Ta.... Specializes in Udon (Wheat noodles).",
+    "source_url": "https://tabelog.com/en/tokyo/A1323/A132304/13141130/",
+    "last_updated_ts": "2025-12-22T21:55:33.326573"
+  },
+  {
+    "id": "214d50193c2f",
+    "name": "KAMAYOSHI",
+    "type": "restaurant",
+    "category_tags": [
+      "Udon"
+    ],
+    "neighborhood": "Awajicho Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Udon"
+    ],
+    "interest_tags": [
+      "Udon",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.69369613790333,
+      "lon": 139.76832178334726
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Next Saturday Opening: 12/27 A unique bowl that fuses Sanuki and Hakata flavors, crafted by a chef from Fukuoka. A hearty udon made with the strong noodles of Sanuki and the gentle dashi of Hakata. We use carefully selected ingredients to prepare our dashi every morning, paired with our unique homemade noodles. ...Read moreEnjoy a bowl that is freshly made, cut, and boiled, and don't miss out on trying it with our piping hot tempura!",
+    "source_url": "https://tabelog.com/en/tokyo/A1310/A131002/13201863/",
+    "last_updated_ts": "2025-12-22T21:55:35.892677"
+  },
+  {
+    "id": "1ce86e07e0ed",
+    "name": "Teuchi Udon Sumita",
+    "type": "restaurant",
+    "category_tags": [
+      "Udon"
+    ],
+    "neighborhood": "Akabane Iwabuchi Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Udon"
+    ],
+    "interest_tags": [
+      "Udon",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.780508058640294,
+      "lon": 139.72663138541512
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Udon (Wheat noodles) EAST \"Tabelog 100\" 2024 Selected for Tabelog Udon (Wheat noodles) EAST \"Tabelog 100\" 2024 Selected for Ta.... Specializes in Udon (Wheat noodles), Tempura, Oden.",
+    "source_url": "https://tabelog.com/en/tokyo/A1323/A132305/13003783/",
+    "last_updated_ts": "2025-12-22T21:55:38.577875"
+  },
+  {
+    "id": "ccfdd8f1557d",
+    "name": "Tonkatsu Narikura",
+    "type": "restaurant",
+    "category_tags": [
+      "Tonkatsu"
+    ],
+    "neighborhood": "Minami Asagaya Sta.",
+    "price_range": 3,
+    "halal": "unknown",
+    "cuisine": [
+      "Tonkatsu"
+    ],
+    "interest_tags": [
+      "Tonkatsu",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.69771383785951,
+      "lon": 139.63875358347863
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "The goal was to bring out the ultimate charm of pork. After much trial and error, we arrived at our white tonkatsu. At first glance, this white tonkatsu might look like it's uncooked, but the crispy, fragrant coating and the rich flavor of the meat and sweet fat are top-notch. This is the result of the skill of the...Read more chef, Naruzo Mitani, who carefully adjusts the cooking temperature based on the condition of the meat. Using the high-moisture brand pork, TOKYO X, as a base, he incorporates several types depending on the day's quality. The coating is made with specially ordered breadcrumbs that achieve both crispiness and melt-in-your-mouth texture. This dish stands apart from traditional tonkatsu, making it a truly exceptional new meat dish.",
+    "source_url": "https://tabelog.com/en/tokyo/A1319/A131905/13236380/",
+    "last_updated_ts": "2025-12-22T21:55:51.268735"
+  },
+  {
+    "id": "5ac25c7d5693",
+    "name": "Katsu Pulipo",
+    "type": "restaurant",
+    "category_tags": [
+      "Tonkatsu"
+    ],
+    "neighborhood": "Seibu Shinjuku Sta.",
+    "price_range": 3,
+    "halal": "unknown",
+    "cuisine": [
+      "Tonkatsu"
+    ],
+    "interest_tags": [
+      "Tonkatsu",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.69475793788186,
+      "lon": 139.70301258340376
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Pretty Pork Factory & Katsu is also open in Harajuku! Introducing the new concept from Pretty Porkfactory, 【KATSU Puripo】. With over 150 types of premium pork from across the country sampled, only 12 to 13 varieties are selected through a rigorous proces...Read mores. The owner, Takanobu Takashi, believes in the inherent potential of pork, which is why there is no room for compromise. Our tonkatsu, carefully double-fried with a focus on the quality of breadcrumbs and oil, is a true testament to our passion. Enjoy our tonkatsu, infused with the belief of \"transforming tonkatsu from the ground up,\" to your heart's content.",
+    "source_url": "https://tabelog.com/en/tokyo/A1304/A130401/13264309/",
+    "last_updated_ts": "2025-12-22T21:55:53.969986"
+  },
+  {
+    "id": "3fc99364a739",
+    "name": "Tonkatsu Nanaido",
+    "type": "restaurant",
+    "category_tags": [
+      "Tonkatsu"
+    ],
+    "neighborhood": "Gaiemmae Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Tonkatsu"
+    ],
+    "interest_tags": [
+      "Tonkatsu",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.67183293789986,
+      "lon": 139.7138147831646
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Please note that some items may be sold out on certain days. We apologize for any inconvenience. We apologize for any inconvenience caused by our new system. We are currently working on improving our ordering system and operations. Thank you for your understanding. Imai...Read more",
+    "source_url": "https://tabelog.com/en/tokyo/A1306/A130603/13229075/",
+    "last_updated_ts": "2025-12-22T21:55:56.957701"
+  },
+  {
+    "id": "d95d2723da9a",
+    "name": "Pretty Pork Factory & Katsu Puripo",
+    "type": "restaurant",
+    "category_tags": [
+      "Tonkatsu"
+    ],
+    "neighborhood": "Meiji Jingumae Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Tonkatsu"
+    ],
+    "interest_tags": [
+      "Tonkatsu",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.668424947177506,
+      "lon": 139.70489861709638
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Enjoy top-quality pork shabu-shabu, Japanese-style samgyeopsal, and tonkatsu in Harajuku! Finally opened at Harajuku Harakado....Read more",
+    "source_url": "https://tabelog.com/en/tokyo/A1306/A130601/13295369/",
+    "last_updated_ts": "2025-12-22T21:55:58.640487"
+  },
+  {
+    "id": "88190568aa75",
+    "name": "Tonkatsu Tonta",
+    "type": "restaurant",
+    "category_tags": [
+      "Tonkatsu"
+    ],
+    "neighborhood": "Takadanobaba Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Tonkatsu"
+    ],
+    "interest_tags": [
+      "Tonkatsu",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.715545448675144,
+      "lon": 139.70650431477304
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2020 Bronze winner The Tabelog Award 2020 Bronze winner The Tabelog Award 2019 Bronze winner The Tabelog Award 2019 Bronze winner.... Specializes in Tonkatsu (Pork cutlet).",
+    "source_url": "https://tabelog.com/en/tokyo/A1305/A130503/13003984/",
+    "last_updated_ts": "2025-12-22T21:56:01.587793"
+  },
+  {
+    "id": "05a3e706d8df",
+    "name": "Homemade Ramen Muginawa",
+    "type": "restaurant",
+    "category_tags": [
+      "Ramen"
+    ],
+    "neighborhood": "Omorikaigan Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Ramen"
+    ],
+    "interest_tags": [
+      "Ramen",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.590785137957376,
+      "lon": 139.73281228233262
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "No chemical seasonings are used at all. Immerse yourself in a rich bowl of noodles and ingredients, harmonized with a dashi made from natural ingredients. In the hidden ramen hotspot of Omori, you'll find the renowned shop \"Muginawa,\" which always has a line of eager customers. They pride themselves on using no chemical seasonings or yeast extracts, foc...Read moreusing instead on a rich broth made from natural ingredients that delivers a deep, comforting flavor. The delicate soup perfectly clings to their homemade noodles, creating a harmonious blend with the flavorful toppings. This remarkable balance is a testament to the meticulous craftsmanship of Chef Fukaya, who spares no effort in his work. Be sure to savor every last drop of this taste, recognized by countless ramen enthusiasts.",
+    "source_url": "https://tabelog.com/en/tokyo/A1315/A131502/13194812/",
+    "last_updated_ts": "2025-12-22T21:56:13.318587"
+  },
+  {
+    "id": "c83f541fedfb",
+    "name": "Raa Menya Shima",
+    "type": "restaurant",
+    "category_tags": [
+      "Ramen"
+    ],
+    "neighborhood": "Nishi Shinjuku Gochome Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Ramen"
+    ],
+    "interest_tags": [
+      "Ramen",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.68834184165506,
+      "lon": 139.68087413976107
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2022 Bronze winner The Tabelog Award 2022 Bronze winner Selected for Tabelog Ramen TOKYO \"Tabelog 100\" 2025 Selected for Tabelog .... Specializes in Ramen, Tsukemen (Dipping noodles).",
+    "source_url": "https://tabelog.com/en/tokyo/A1304/A130401/13247487/",
+    "last_updated_ts": "2025-12-22T21:56:15.624284"
+  },
+  {
+    "id": "02175f4e8d47",
+    "name": "Chuka Soba Shibata",
+    "type": "restaurant",
+    "category_tags": [
+      "Ramen"
+    ],
+    "neighborhood": "Komae Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Ramen"
+    ],
+    "interest_tags": [
+      "Ramen",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.63197375868687,
+      "lon": 139.5766496440199
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Ramen TOKYO \"Tabelog 100\" 2025 Selected for Tabelog Ramen TOKYO \"Tabelog 100\" 2025 受賞・選出歴 閉じる 百名店 選出歴 ラーメン 百名店 2025 選出店 食べログ ラ.... Specializes in Ramen.",
+    "source_url": "https://tabelog.com/en/tokyo/A1326/A132603/13300645/",
+    "last_updated_ts": "2025-12-22T21:56:17.106122"
+  },
+  {
+    "id": "643c55f90d37",
+    "name": "Japanese Ramen Gokan",
+    "type": "restaurant",
+    "category_tags": [
+      "Ramen"
+    ],
+    "neighborhood": "Ikebukuro Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Ramen"
+    ],
+    "interest_tags": [
+      "Ramen",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.73308813786226,
+      "lon": 139.71791438378045
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Ramen TOKYO \"Tabelog 100\" 2025 Selected for Tabelog Ramen TOKYO \"Tabelog 100\" 2025 Selected for Tabelog Ramen TOKYO \"Tabelog 1.... Specializes in Ramen, Tsukemen (Dipping noodles).",
+    "source_url": "https://tabelog.com/en/tokyo/A1305/A130501/13284009/",
+    "last_updated_ts": "2025-12-22T21:56:19.661297"
+  },
+  {
+    "id": "3af8f0f382cb",
+    "name": "Ramen FeeL",
+    "type": "restaurant",
+    "category_tags": [
+      "Ramen"
+    ],
+    "neighborhood": "Hinatawada Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Ramen"
+    ],
+    "interest_tags": [
+      "Ramen",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.78872063766892,
+      "lon": 139.22178498469017
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Ramen TOKYO \"Tabelog 100\" 2025 Selected for Tabelog Ramen TOKYO \"Tabelog 100\" 2025 Selected for Tabelog Ramen TOKYO \"Tabelog 1.... Specializes in Ramen.",
+    "source_url": "https://tabelog.com/en/tokyo/A1330/A133003/13254631/",
+    "last_updated_ts": "2025-12-22T21:56:22.560080"
+  },
+  {
+    "id": "3ded35116468",
+    "name": "Nihonbashi Kakigaracho Sugita",
+    "type": "restaurant",
+    "category_tags": [
+      "Sushi"
+    ],
+    "neighborhood": "Suitengumae Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sushi"
+    ],
+    "interest_tags": [
+      "Sushi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.68193905872146,
+      "lon": 139.78492840437863
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Edo-style sushi that conveys the essence of tradition. Authentic Edo-mae sushi showcasing evolving craftsmanship and meticulous attention to detail. Known for its difficulty in securing reservations, \"Nihonbashi Kakigara-cho Sugita\" is a sushi restaurant in Tokyo that earned its first Michelin star in the 2017 Tokyo guide. Not only is the quality ...Read moreof the sushi and appetizers exceptional, but the warm personality and attentive service of Takahiro Sugita also continue to charm visitors. Standing at the sushi counter, Sugita trained at the long-established \"Nihonbashi Kakigara-cho Miyakozushi,\" founded in the 20th year of the Meiji era. He selects high-quality fish daily from Tsukiji, including lightly marinated Omakase tuna and vinegared Amakusa kohada. He also incorporates traditional Edo-style techniques, using red vinegar and nikiri soy sauce to maintain authenticity. The menu consists solely of the \"Omakase Course,\" featuring a selection of appetizers and sushi. You'll be captivated by the exquisite melt-in-your-mouth sushi and the graceful, efficient movements of the sushi-making process.",
+    "source_url": "https://tabelog.com/en/tokyo/A1302/A130204/13018162/",
+    "last_updated_ts": "2025-12-22T21:56:36.887027"
+  },
+  {
+    "id": "68df58da9ddf",
+    "name": "Sushi Saitou",
+    "type": "restaurant",
+    "category_tags": [
+      "Sushi"
+    ],
+    "neighborhood": "Roppongi Itchome Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sushi"
+    ],
+    "interest_tags": [
+      "Sushi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.66538543791217,
+      "lon": 139.73959728308142
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Exquisite and meticulous craftsmanship meets passion in these gem-like sushi pieces. Immerse yourself in the delicate aftertaste of sushi recognized by the world. The sushi crafted by Chef Koji Saito is elegant and beautiful, bringing smiles to all who visit. Each piece is a delicate masterpiece made using simple techniques like simmering, steaming, pickling, a...Read morend grilling. The rice is made with larger grains of aged rice, seasoned only with red vinegar and salt. The temperature of the rice is adjusted to match the toppings, resulting in sushi that truly lives up to its reputation as the pinnacle of excellence.",
+    "source_url": "https://tabelog.com/en/tokyo/A1308/A130802/13015251/",
+    "last_updated_ts": "2025-12-22T21:56:40.117487"
+  },
+  {
+    "id": "347015e1bd80",
+    "name": "Higashiazabu Amamoto",
+    "type": "restaurant",
+    "category_tags": [
+      "Sushi"
+    ],
+    "neighborhood": "Akabanebashi Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sushi"
+    ],
+    "interest_tags": [
+      "Sushi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.65731823791852,
+      "lon": 139.74345608299723
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "The Future of Modern Edomae Sushi: Honoring the Spirit of Renowned Restaurants with Exquisite Fish and Craftsmanship Masamichi Amano, who trained under the renowned Nagano Mitsuyasu at the famous restaurant \"Umi,\" has now opened his own establishment. With a refined eye for quality, strong relationships with supplie...Read morers, and skills that transcend traditional Edomae sushi, he brings a unique touch to both his craft and customer service. His dedication to sourcing and hospitality reflects the spirit of his mentor while showcasing his own brilliance as a sushi chef. Just six months after opening, he earned two Michelin stars in the Tokyo 2017 guide, marking a bright future for modern Edomae sushi right here in Higashi Azabu.",
+    "source_url": "https://tabelog.com/en/tokyo/A1314/A131401/13196420/",
+    "last_updated_ts": "2025-12-22T21:56:42.822231"
+  },
+  {
+    "id": "f5da10aa8d91",
+    "name": "Sushi Arai",
+    "type": "restaurant",
+    "category_tags": [
+      "Sushi"
+    ],
+    "neighborhood": "Higashi Ginza Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sushi"
+    ],
+    "interest_tags": [
+      "Sushi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.66808093791782,
+      "lon": 139.76272298309246
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Kyuubei: A New Generation of Ginza Sushi Focused on \"Nigiri,\" Established Independently at the Young Age of 33 After Working at Sushi Takumi. In 2015, \"Sushi Arai\" opened its doors in Ginza 8-chome, bringing a nostalgic atmosphere reminiscent of Showa-era sushi restaurants. The owner, Yuichi Arai, personally attends to each guest with care....Read more With refined techniques honed at renowned establishments like \"Ginza Kyubey\" and \"Sushi Takumi,\" his hospitality creates a warm and inviting environment, embodying the best of both worlds.One of the highlights is the tuna, which Arai prepares with great passion. Depending on the day's catch, he adjusts the knife techniques and the vinegar blend for the rice, showcasing his unique style. The sushi is not only delicate but also features generous portions of rice made from Toyama-grown Koshihikari, providing an overwhelming sense of satisfaction with each meal.As he continues to refine his craft in the competitive Ginza area, this young chef, who has learned from two prestigious restaurants, is definitely one to watch.",
+    "source_url": "https://tabelog.com/en/tokyo/A1301/A130101/13188186/",
+    "last_updated_ts": "2025-12-22T21:56:46.180053"
+  },
+  {
+    "id": "4bc7d56ba55e",
+    "name": "Sawada",
+    "type": "restaurant",
+    "category_tags": [
+      "Sushi"
+    ],
+    "neighborhood": "Ginza Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sushi"
+    ],
+    "interest_tags": [
+      "Sushi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.670470398722486,
+      "lon": 139.76525328427655
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2025 Gold winner The Tabelog Award 2025 Gold winner The Tabelog Award 2024 Silver winner The Tabelog Award 2024 Silver winner The.... Specializes in Sushi.",
+    "source_url": "https://tabelog.com/en/tokyo/A1301/A130101/13001043/",
+    "last_updated_ts": "2025-12-22T21:56:49.006617"
+  },
+  {
+    "id": "aec2a54e0d14",
+    "name": "Akasaka Raimon",
+    "type": "restaurant",
+    "category_tags": [
+      "Yakiniku"
+    ],
+    "neighborhood": "Akasaka Mitsuke Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Yakiniku"
+    ],
+    "interest_tags": [
+      "Yakiniku",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.67687750870917,
+      "lon": 139.7362534443616
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2025 Silver winner The Tabelog Award 2025 Silver winner The Tabelog Award 2024 Silver winner The Tabelog Award 2024 Silver winner.... Specializes in Yakiniku (Japanese BBQ), Tripe.",
+    "source_url": "https://tabelog.com/en/tokyo/A1308/A130801/13224635/",
+    "last_updated_ts": "2025-12-22T21:56:59.721060"
+  },
+  {
+    "id": "229e45485ecb",
+    "name": "Yakiniku Jumbo Hanare",
+    "type": "restaurant",
+    "category_tags": [
+      "Yakiniku"
+    ],
+    "neighborhood": "Hongo Sanchome Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Yakiniku"
+    ],
+    "interest_tags": [
+      "Yakiniku",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.70662123789326,
+      "lon": 139.7624365834819
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "A Must-Visit Meat Haven for Hungry Diners! Indulge in the Essence of Meat that Will Leave Foodies in Awe. As soon as you step inside, the sound and aroma of sizzling meat will ignite your appetite. At \"Yakiniku Jumbo Hanare,\" you can indulge in exquisite grilled meat. Each piece is cut like a work of art ...Read moreand served at the perfect thickness, depending on the marbling of the meat that day. The quality of the meat is exceptional, and the delicious sauce that enhances its flavor is truly impressive. Be sure to come with an empty stomach and prepare to satisfy your taste buds with a sensational experience.",
+    "source_url": "https://tabelog.com/en/tokyo/A1310/A131004/13160962/",
+    "last_updated_ts": "2025-12-22T21:57:01.313472"
+  },
+  {
+    "id": "55edc81fee71",
+    "name": "Sumiyaki Kinryusan",
+    "type": "restaurant",
+    "category_tags": [
+      "Yakiniku"
+    ],
+    "neighborhood": "Shirokane Takanawa Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Yakiniku"
+    ],
+    "interest_tags": [
+      "Yakiniku",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.645338658826475,
+      "lon": 139.72831329100052
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2025 Bronze winner The Tabelog Award 2025 Bronze winner The Tabelog Award 2024 Bronze winner The Tabelog Award 2024 Bronze winner.... Specializes in Yakiniku (Japanese BBQ).",
+    "source_url": "https://tabelog.com/en/tokyo/A1316/A131602/13001625/",
+    "last_updated_ts": "2025-12-22T21:57:03.989095"
+  },
+  {
+    "id": "3d1d8290b095",
+    "name": "YORONIKU TOKYO AZABUDAI HILLS",
+    "type": "restaurant",
+    "category_tags": [
+      "Yakiniku"
+    ],
+    "neighborhood": "Kamiyacho Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Yakiniku"
+    ],
+    "interest_tags": [
+      "Yakiniku",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.6611653287206,
+      "lon": 139.7407919641997
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "A meat kaiseki that transcends the norms of yakiniku and explores the possibilities of Wagyu. Introducing \"Yoroniku,\" a restaurant that continues to create new value in Tokyo's yakiniku scene. The third location in Azabudai, following Minami Aoyama and Ebisu, features its first-ever fully priv...Read moreate rooms. Indulge in a stunning course that includes thinly sliced Chateaubriand grilled rare over low heat, and sukiyaki infused with the aroma of truffles from whipped egg yolk. From sashimi and soup dishes to grilled items that highlight the unique textures and flavors of each cut, the skillful presentation reveals the untapped allure of Wagyu beef.",
+    "source_url": "https://tabelog.com/en/tokyo/A1307/A130701/13291424/",
+    "last_updated_ts": "2025-12-22T21:57:06.917377"
+  },
+  {
+    "id": "7ae9701b0a94",
+    "name": "Stamina En",
+    "type": "restaurant",
+    "category_tags": [
+      "Yakiniku"
+    ],
+    "neighborhood": "Nishiaraidaishi Nishi Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Yakiniku"
+    ],
+    "interest_tags": [
+      "Yakiniku",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.779935037843494,
+      "lon": 139.75240888422948
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "For urgent requests, please check the website in the \"Notes\" section at the bottom of the page. No reservations! Expect a long wait! Welcome to \"Stamina-en,\" a renowned yakiniku restaurant that evokes the nostalgia of the Showa era and is a pride of Japan. It was ranked \"No. 1\" among all restaur...Read moreants in the Japanese version of the Zagat Survey (1999). Although it's not the easiest place to get to, this super popular spot always has a line. Since its establishment, the restaurant has maintained its meticulous preparation methods for the meat, which truly needs no seasoning other than their homemade sauce. Grilled on a small gas roaster, one bite will make you think, \"It was worth the wait.\"",
+    "source_url": "https://tabelog.com/en/tokyo/A1323/A132305/13003777/",
+    "last_updated_ts": "2025-12-22T21:57:09.641428"
+  },
+  {
+    "id": "d1567fc9d188",
+    "name": "European Curry Tomato",
+    "type": "restaurant",
+    "category_tags": [
+      "Curry"
+    ],
+    "neighborhood": "Ogikubo Sta.",
+    "price_range": 3,
+    "halal": "unknown",
+    "cuisine": [
+      "Curry"
+    ],
+    "interest_tags": [
+      "Curry",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.70247723785044,
+      "lon": 139.6197417835401
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Experience a captivating blend of 36 enticing spices and rich sauces. Dive into the profound world of spices! The subtle aroma of spices and the deep brown color of the sauce create an inviting atmosphere. The \"Tomato\" curry is crafted with 36 types of spices, aromatic vegetables, and fond de veau, simmered f...Read moreor about 140 hours to achieve a flavor reminiscent of medicinal cuisine. The \"Wagyu Beef Java Curry,\" made with luxurious black wagyu beef, is especially popular, attracting fans from all over the country. Since its establishment in 1982, the unique taste that keeps the lines forming is something you must experience for yourself.",
+    "source_url": "https://tabelog.com/en/tokyo/A1319/A131906/13001113/",
+    "last_updated_ts": "2025-12-22T21:57:22.926228"
+  },
+  {
+    "id": "3f2f61636f08",
+    "name": "SPICY CURRY Roka",
+    "type": "restaurant",
+    "category_tags": [
+      "Curry"
+    ],
+    "neighborhood": "Okubo Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Curry"
+    ],
+    "interest_tags": [
+      "Curry",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.69869924868305,
+      "lon": 139.69773308460904
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Curry TOKYO \"Tabelog 100\" 2024 Selected for Tabelog Curry TOKYO \"Tabelog 100\" 2024 受賞・選出歴 閉じる 百名店 選出歴 カレー 百名店 2024 選出店 食べログ カレ.... Specializes in Curry, Taiwanese.",
+    "source_url": "https://tabelog.com/en/tokyo/A1304/A130404/13286023/",
+    "last_updated_ts": "2025-12-22T21:57:26.357367"
+  },
+  {
+    "id": "4fbd7ab84933",
+    "name": "Kalpasi",
+    "type": "restaurant",
+    "category_tags": [
+      "Curry"
+    ],
+    "neighborhood": "Chitose Funabashi Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Curry"
+    ],
+    "interest_tags": [
+      "Curry",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.64686103788858,
+      "lon": 139.6285747829721
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "A weekly one-course curry that spice lovers will drool over. Despite being a reservation-only restaurant with a non-public phone number and requiring bookings via LINE, \"Kalpasi\" is revered as a holy place among spice enthusiasts. It continues the tradition of ...Read moreoffering a weekly changing omakase menu, a style developed during its previous \"shared curry\" days in the Asakusa underground shopping area. Each month, a theme is chosen from the diverse spice cuisines of India, Sri Lanka, and Nepal, with dishes that excite and stimulate the palate changing weekly.",
+    "source_url": "https://tabelog.com/en/tokyo/A1318/A131813/13202529/",
+    "last_updated_ts": "2025-12-22T21:57:28.410835"
+  },
+  {
+    "id": "b133ada18088",
+    "name": "Tsuki to Kame",
+    "type": "restaurant",
+    "category_tags": [
+      "Curry"
+    ],
+    "neighborhood": "Morishita Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Curry"
+    ],
+    "interest_tags": [
+      "Curry",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.687694822543456,
+      "lon": 139.7956607742768
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Curry TOKYO \"Tabelog 100\" 2024 Selected for Tabelog Curry TOKYO \"Tabelog 100\" 2024 Selected for Tabelog Curry TOKYO \"Tabelog 1.... Specializes in Indian curry.",
+    "source_url": "https://tabelog.com/en/tokyo/A1312/A131201/13262828/",
+    "last_updated_ts": "2025-12-22T21:57:30.394346"
+  },
+  {
+    "id": "f44bf56d259f",
+    "name": "SPICE POST",
+    "type": "restaurant",
+    "category_tags": [
+      "Curry"
+    ],
+    "neighborhood": "Yoyogi Hachiman Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Curry"
+    ],
+    "interest_tags": [
+      "Curry",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.66901279869913,
+      "lon": 139.68902450431528
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Curry TOKYO \"Tabelog 100\" 2024 Selected for Tabelog Curry TOKYO \"Tabelog 100\" 2024 Selected for Tabelog Curry TOKYO \"Tabelog 1.... Specializes in Curry.",
+    "source_url": "https://tabelog.com/en/tokyo/A1318/A131810/13210691/",
+    "last_updated_ts": "2025-12-22T21:57:33.014337"
+  },
+  {
+    "id": "410e7e37e5b5",
+    "name": "Toritanaka",
+    "type": "restaurant",
+    "category_tags": [
+      "Izakaya"
+    ],
+    "neighborhood": "Kanegafuchi Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Izakaya"
+    ],
+    "interest_tags": [
+      "Izakaya",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.73071023870151,
+      "lon": 139.819558374847
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Sublime Sake Dishes Crafted by Masterful Chef Brothers Who Have Perfected Japanese Cuisine. Known as a famous restaurant in Kanegafuchi, \"Toritanaka\" has transformed into \"Shutei Tanaka,\" offering a more compact menu and pricing. The first part features a course meal with dishes and skewers,...Read more while the second part allows you to enjoy a la carte dishes and drinks. The elder brother prepares seasonal dishes with meticulous care and a passion for ingredients, reflecting the skills of a renowned establishment. Meanwhile, the younger brother specializes in flavorful yakitori made from fresh Kumano jidori chicken. Both offerings are sure to captivate anyone with their exceptional taste.",
+    "source_url": "https://tabelog.com/en/tokyo/A1312/A131203/13285811/",
+    "last_updated_ts": "2025-12-22T21:57:46.058855"
+  },
+  {
+    "id": "1413909ab2e9",
+    "name": "Shokudo Todaka",
+    "type": "restaurant",
+    "category_tags": [
+      "Izakaya"
+    ],
+    "neighborhood": "Gotanda Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Izakaya"
+    ],
+    "interest_tags": [
+      "Izakaya",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.62488323793303,
+      "lon": 139.72428598268303
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog izakaya EAST \"Tabelog 100\" 2025 Selected for Tabelog izakaya EAST \"Tabelog 100\" 2025 Selected for Tabelog Izakaya EAST \"Tabelo.... Specializes in Izakaya (Japanese style tavern), Creative, Japanese Cuisine.",
+    "source_url": "https://tabelog.com/en/tokyo/A1316/A131603/13187669/",
+    "last_updated_ts": "2025-12-22T21:57:47.683256"
+  },
+  {
+    "id": "8a15cab7b1e3",
+    "name": "Shutei Yuzawa",
+    "type": "restaurant",
+    "category_tags": [
+      "Izakaya"
+    ],
+    "neighborhood": "Bakuroyokoyama Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Izakaya"
+    ],
+    "interest_tags": [
+      "Izakaya",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.691148458715155,
+      "lon": 139.78350589447265
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog yakitori EAST \"Tabelog 100\" 2025 Selected for Tabelog yakitori EAST \"Tabelog 100\" 2025 受賞・選出歴 閉じる 百名店 選出歴 焼き鳥 百名店 2025 選出店 食べロ.... Specializes in Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Japanese style tavern).",
+    "source_url": "https://tabelog.com/en/tokyo/A1302/A130204/13304051/",
+    "last_updated_ts": "2025-12-22T21:57:49.456209"
+  },
+  {
+    "id": "c33d482e731d",
+    "name": "Yakitori shira",
+    "type": "restaurant",
+    "category_tags": [
+      "Izakaya"
+    ],
+    "neighborhood": "Umegaoka Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Izakaya"
+    ],
+    "interest_tags": [
+      "Izakaya",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.65520775869651,
+      "lon": 139.6532747442009
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog yakitori EAST \"Tabelog 100\" 2025 Selected for Tabelog yakitori EAST \"Tabelog 100\" 2025 Selected for Tabelog Yakitori EAST \"Tab.... Specializes in Yakitori (Grilled chicken skewers), Izakaya (Japanese style tavern), Wine bar.",
+    "source_url": "https://tabelog.com/en/tokyo/A1318/A131812/13193012/",
+    "last_updated_ts": "2025-12-22T21:57:51.412797"
+  },
+  {
+    "id": "d721be03d494",
+    "name": "Topca Kanda Honten",
+    "type": "restaurant",
+    "category_tags": [
+      "Izakaya"
+    ],
+    "neighborhood": "Awajicho Sta.",
+    "price_range": 2,
+    "halal": "unknown",
+    "cuisine": [
+      "Izakaya"
+    ],
+    "interest_tags": [
+      "Izakaya",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.696291108707335,
+      "lon": 139.7691897245346
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Curry TOKYO \"Tabelog 100\" 2024 Selected for Tabelog Curry TOKYO \"Tabelog 100\" 2024 Selected for Tabelog Curry TOKYO \"Tabelog 1.... Specializes in Curry, Indian curry, Izakaya (Japanese style tavern).",
+    "source_url": "https://tabelog.com/en/tokyo/A1310/A131002/13000377/",
+    "last_updated_ts": "2025-12-22T21:57:54.275791"
+  },
+  {
+    "id": "68ee8a1f471b",
+    "name": "Bon.nu",
+    "type": "restaurant",
+    "category_tags": [
+      "Sweets"
+    ],
+    "neighborhood": "Sangubashi Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sweets"
+    ],
+    "interest_tags": [
+      "Sweets",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.68126233788669,
+      "lon": 139.69128588327564
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "The ultimate flavor experience driven by a sincere passion for gourmet cuisine. Enjoy a striking dish crafted simply without any unnecessary additions. Kei Kurusu, a culinary king who has experienced various dishes as a food connoisseur, has poured all his passion for food into the grand opening of \"Bonyu.\" In a warm and inviting space, you can enjoy...Read more dishes that maximize the pure flavors of ingredients, such as bisque made with only lobster, water, and salt, extracted in a short time. The transparent and delicious essence that highlights the charm of the ingredients will leave a lasting impression on the hearts of the guests.",
+    "source_url": "https://tabelog.com/en/tokyo/A1304/A130401/13184186/",
+    "last_updated_ts": "2025-12-22T21:58:08.227170"
+  },
+  {
+    "id": "b3006cfd469e",
+    "name": "Yama",
+    "type": "restaurant",
+    "category_tags": [
+      "Sweets"
+    ],
+    "neighborhood": "Shirokanedai Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sweets"
+    ],
+    "interest_tags": [
+      "Sweets",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.64385681309074,
+      "lon": 139.72287486744005
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Specializes in Sweets.",
+    "source_url": "https://tabelog.com/en/tokyo/A1316/A131602/13279936/",
+    "last_updated_ts": "2025-12-22T21:58:11.011252"
+  },
+  {
+    "id": "30af97c02018",
+    "name": "Okashiya Ucchi",
+    "type": "restaurant",
+    "category_tags": [
+      "Sweets"
+    ],
+    "neighborhood": "Kita Sando Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sweets"
+    ],
+    "interest_tags": [
+      "Sweets",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.67744530869985,
+      "lon": 139.70810625438705
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Sweets TOKYO \"Tabelog 100\" 2023 Selected for Tabelog Sweets TOKYO \"Tabelog 100\" 2023 Selected for Tabelog Sweets TOKYO \"Tabelo.... Specializes in Cake, Sweets (Western style).",
+    "source_url": "https://tabelog.com/en/tokyo/A1309/A130901/13238644/",
+    "last_updated_ts": "2025-12-22T21:58:12.872315"
+  },
+  {
+    "id": "f7466ef314ef",
+    "name": "souka",
+    "type": "restaurant",
+    "category_tags": [
+      "Sweets"
+    ],
+    "neighborhood": "Hiro o Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sweets"
+    ],
+    "interest_tags": [
+      "Sweets",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.65809755871708,
+      "lon": 139.72361562418078
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Specializes in Sweets.",
+    "source_url": "https://tabelog.com/en/tokyo/A1307/A130703/13297330/",
+    "last_updated_ts": "2025-12-22T21:58:14.477133"
+  },
+  {
+    "id": "009b22d6e68e",
+    "name": "Haruka Murooka",
+    "type": "restaurant",
+    "category_tags": [
+      "Sweets"
+    ],
+    "neighborhood": "Nogizaka Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Sweets"
+    ],
+    "interest_tags": [
+      "Sweets",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.667171638711665,
+      "lon": 139.72472898427165
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Specializes in Sweets.",
+    "source_url": "https://tabelog.com/en/tokyo/A1307/A130701/13295424/",
+    "last_updated_ts": "2025-12-22T21:58:16.620611"
+  },
+  {
+    "id": "db40b5a6e78c",
+    "name": "Takiya Tempura",
+    "type": "restaurant",
+    "category_tags": [
+      "Tempura"
+    ],
+    "neighborhood": "Azabu Juban Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Tempura"
+    ],
+    "interest_tags": [
+      "Tempura",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.65560183791684,
+      "lon": 139.73477658298594
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2025 Silver winner The Tabelog Award 2025 Silver winner The Tabelog Award 2024 Gold winner The Tabelog Award 2024 Gold winner The.... Specializes in Tempura.",
+    "source_url": "https://tabelog.com/en/tokyo/A1307/A130702/13185763/",
+    "last_updated_ts": "2025-12-22T21:58:28.386891"
+  },
+  {
+    "id": "309e8dbfbeb4",
+    "name": "Nihonbashi Sonoji",
+    "type": "restaurant",
+    "category_tags": [
+      "Tempura"
+    ],
+    "neighborhood": "Ningyocho Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Tempura"
+    ],
+    "interest_tags": [
+      "Tempura",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.68624257871861,
+      "lon": 139.78454668442237
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Experience the rich flavors of authentic Edomae tempura made with Shizuoka ingredients, and indulge in the delightful texture of hand-made soba served as a perfect finish. Nestled in Ningyocho, where numerous renowned restaurants line the streets, you'll find \"Nihonbashi Soba no Ji.\" Their expertly prepared tempura, primarily using ingredients from Shizuoka, is light an...Read mored fluffy, allowing the rich flavors of nature to gently unfold in your mouth. The soba served as a finale is handmade by the owner, whose family runs a soba shop. The smooth texture and fragrant aroma create a refreshing aftertaste, elevating your dining experience to bliss. \"Enjoy tempura and finish with soba.\" This restaurant truly lives up to its reputation.",
+    "source_url": "https://tabelog.com/en/tokyo/A1302/A130204/13201969/",
+    "last_updated_ts": "2025-12-22T21:58:30.660405"
+  },
+  {
+    "id": "c869b3781bad",
+    "name": "Tempura Asanuma",
+    "type": "restaurant",
+    "category_tags": [
+      "Tempura"
+    ],
+    "neighborhood": "Nihombashi Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Tempura"
+    ],
+    "interest_tags": [
+      "Tempura",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.6809994379134,
+      "lon": 139.77461398321458
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Harmony of Ingredients and Batter. Experience the World of \"Tempura to Savor\" Crafted by a Young Tempura Chef. A young tempura chef, who has honed his skills at renowned establishments, welcomes you to this must-visit spot in Nihonbashi. The menu features only an omakase course, showcasing seasonal ingredients...Read more for both lunch and dinner. While the traditional tempura style emphasizes respecting the ingredient with a light batter enjoyed with salt, Chef Asanuma introduces a unique approach: \"tempura that celebrates the batter.\" He seeks harmony between the ingredients and the batter, blending different batters tailored to each ingredient. Enjoy tempura, lightly fried in 100% sesame oil, with a dipping sauce...",
+    "source_url": "https://tabelog.com/en/tokyo/A1302/A130202/13275655/",
+    "last_updated_ts": "2025-12-22T21:58:33.120111"
+  },
+  {
+    "id": "bfed61e90d29",
+    "name": "Kitagawa",
+    "type": "restaurant",
+    "category_tags": [
+      "Tempura"
+    ],
+    "neighborhood": "Ginza Itchome Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Tempura"
+    ],
+    "interest_tags": [
+      "Tempura",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.67213759872239,
+      "lon": 139.7682772942913
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "A Japanese restaurant that inherits the essence and skill of \"Ginza Shinohara.\" In the refreshing white wood L-shaped counter, chefs in their 20s and 30s are hard at work. This is a place established for the young talents of the renowned restaurant \"Ginza Shinohara,\" admired by f...Read moreood lovers both domestically and internationally, to further hone their skills and showcase their talents. Under the guidance of Chef Takeshi Shinohara, these young chefs have learned specialized techniques at top establishments in tempura, sushi, and French cuisine, transforming their dishes into shining highlights within the course. Of course, the essence of seasonal and traditional Japanese cuisine, as taught at \"Shinohara,\" is seamlessly passed down.",
+    "source_url": "https://tabelog.com/en/tokyo/A1301/A130101/13275790/",
+    "last_updated_ts": "2025-12-22T21:58:35.594889"
+  },
+  {
+    "id": "6d62a1a37984",
+    "name": "Kusunoki Hon Ten",
+    "type": "restaurant",
+    "category_tags": [
+      "Tempura"
+    ],
+    "neighborhood": "Yotsuya Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Tempura"
+    ],
+    "interest_tags": [
+      "Tempura",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.685997638957026,
+      "lon": 139.72806755050678
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2025 Silver winner The Tabelog Award 2025 Silver winner The Tabelog Award 2024 Silver winner The Tabelog Award 2024 Silver winner.... Specializes in Tempura.",
+    "source_url": "https://tabelog.com/en/tokyo/A1309/A130902/13223239/",
+    "last_updated_ts": "2025-12-22T21:58:37.889178"
+  },
+  {
+    "id": "09707dd743b2",
+    "name": "Kanjou",
+    "type": "restaurant",
+    "category_tags": [
+      "Soba"
+    ],
+    "neighborhood": "Roppongi Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Soba"
+    ],
+    "interest_tags": [
+      "Soba",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.66448713791019,
+      "lon": 139.73163218307792
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Soba with Duck and Tamahagane A unique course featuring seasonal dishes paired with soba noodles.Using a tamahagane iron plate crafted by the renowned swordsmith Yoshihara, we carefully grill special duck meat, which can only be ...Read moretruly appreciated through emotion, one piece at a time.While we don't offer flashy dishes or services, we strive to create a comforting atmosphere that feels like home.",
+    "source_url": "https://tabelog.com/en/tokyo/A1307/A130701/13267945/",
+    "last_updated_ts": "2025-12-22T21:58:51.675267"
+  },
+  {
+    "id": "f29c416861bc",
+    "name": "Sharikimon Onozawa",
+    "type": "restaurant",
+    "category_tags": [
+      "Soba"
+    ],
+    "neighborhood": "Yotsuya Sanchome Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Soba"
+    ],
+    "interest_tags": [
+      "Soba",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.689234598696984,
+      "lon": 139.72259498449603
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "\"Authentic techniques from renowned establishments and creative ideas captivate the hearts of gourmets.\" The owner, Makoto Onozawa, has honed his skills and sensibilities in Japanese cuisine through over 20 years of training at renowned establishments like the long-established \"Nadaman\" and the famous so...Read moreba kaiseki restaurant \"Ginza Yabe.\" As his career suggests, the true essence of \"Sharikimon Onozawa\" lies in its handmade soba and charcoal-grilled dishes. The courses, while reminiscent of kaiseki, feature a playful twist with a roll of toro and takuan in the middle, and a signature spice curry served alongside the proud soba at the end. This creative spirit of the chef sparks curiosity in diners.",
+    "source_url": "https://tabelog.com/en/tokyo/A1309/A130903/13247076/",
+    "last_updated_ts": "2025-12-22T21:58:53.854130"
+  },
+  {
+    "id": "548126c115c8",
+    "name": "Teuchi Soba Jiyu San",
+    "type": "restaurant",
+    "category_tags": [
+      "Soba"
+    ],
+    "neighborhood": "Higashi Nagasaki Sta.",
+    "price_range": 3,
+    "halal": "unknown",
+    "cuisine": [
+      "Soba"
+    ],
+    "interest_tags": [
+      "Soba",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.729919937851285,
+      "lon": 139.67711888377707
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "The joy of a once-in-a-lifetime taste, never the same twice. Enjoy the pleasant aroma of soba and delightful sake pairings that keep the cups flowing. Located along Mejiro Street, which was once known as \"Jusankendo,\" \"Teuchi Soba Jiyusan\" sits at the boundary of Nerima and Nakano wards. The buckwheat flour is freshly ground in-house using a stone m...Read moreill, and the preparation method and thickness of the soba noodles vary depending on the flour's condition, making each day's soba unique. They pay close attention to their water usage, using mineral water for the dough and soft water enriched with fossilized shells for boiling. Enjoy the exquisite hand-made soba crafted with care by the third-generation owner, available only for that day.",
+    "source_url": "https://tabelog.com/en/tokyo/A1321/A132101/13025978/",
+    "last_updated_ts": "2025-12-22T21:58:55.835765"
+  },
+  {
+    "id": "a5d2b78005bf",
+    "name": "Tamawarai",
+    "type": "restaurant",
+    "category_tags": [
+      "Soba"
+    ],
+    "neighborhood": "Meiji Jingumae Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Soba"
+    ],
+    "interest_tags": [
+      "Soba",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.66445013870701,
+      "lon": 139.7046838142582
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2025 Bronze winner The Tabelog Award 2025 Bronze winner The Tabelog Award 2024 Bronze winner The Tabelog Award 2024 Bronze winner.... Specializes in Soba (Buckwheat noodles).",
+    "source_url": "https://tabelog.com/en/tokyo/A1306/A130601/13129390/",
+    "last_updated_ts": "2025-12-22T21:58:58.163596"
+  },
+  {
+    "id": "4f3ef272d7e2",
+    "name": "Soba Osame",
+    "type": "restaurant",
+    "category_tags": [
+      "Soba"
+    ],
+    "neighborhood": "Mejiro Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Soba"
+    ],
+    "interest_tags": [
+      "Soba",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.72263013786351,
+      "lon": 139.70100838368668
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Soba (Buckwheat noodles) EAST \"Tabelog 100\" 2025 Selected for Tabelog Soba (Buckwheat noodles) EAST \"Tabelog 100\" 2025 Selecte.... Specializes in Soba (Buckwheat noodles).",
+    "source_url": "https://tabelog.com/en/tokyo/A1305/A130502/13283508/",
+    "last_updated_ts": "2025-12-22T21:59:00.274479"
+  },
+  {
+    "id": "fddd9f4a92ff",
+    "name": "Kabuto",
+    "type": "restaurant",
+    "category_tags": [
+      "Unagi"
+    ],
+    "neighborhood": "Ikebukuro Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Unagi"
+    ],
+    "interest_tags": [
+      "Unagi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.733764037859004,
+      "lon": 139.70904148379353
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2025 Silver winner The Tabelog Award 2025 Silver winner The Tabelog Award 2024 Silver winner The Tabelog Award 2024 Silver winner.... Specializes in Unagi (Eel).",
+    "source_url": "https://tabelog.com/en/tokyo/A1305/A130501/13016660/",
+    "last_updated_ts": "2025-12-22T21:59:13.442923"
+  },
+  {
+    "id": "1a518dbc8179",
+    "name": "Unagi Uomasa",
+    "type": "restaurant",
+    "category_tags": [
+      "Unagi"
+    ],
+    "neighborhood": "Yotsugi Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Unagi"
+    ],
+    "interest_tags": [
+      "Unagi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.732086253470854,
+      "lon": 139.83555483502838
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Grilled to perfection with Kishu Binchotan charcoal, locking in the delicious flavor of the eel. The eel grilled over high heat using Kishu Binchotan charcoal is fragrant and thoroughly heated to the core. Please be careful not to burn yourself and enjoy this delicious dish!...Read more",
+    "source_url": "https://tabelog.com/en/tokyo/A1324/A132403/13035339/",
+    "last_updated_ts": "2025-12-22T21:59:16.670264"
+  },
+  {
+    "id": "1d723eaf8806",
+    "name": "Ikewanagi no Mise Tsugumi An",
+    "type": "restaurant",
+    "category_tags": [
+      "Unagi"
+    ],
+    "neighborhood": "Komagome Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Unagi"
+    ],
+    "interest_tags": [
+      "Unagi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.737916558675664,
+      "lon": 139.7527569849666
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: The Tabelog Award 2025 Bronze winner The Tabelog Award 2025 Bronze winner The Tabelog Award 2024 Bronze winner The Tabelog Award 2024 Bronze winner.... Specializes in Unagi (Eel), Yakitori (Grilled chicken skewers).",
+    "source_url": "https://tabelog.com/en/tokyo/A1323/A132301/13080463/",
+    "last_updated_ts": "2025-12-22T21:59:19.375259"
+  },
+  {
+    "id": "0069564866aa",
+    "name": "Sangu Bashi Asaya",
+    "type": "restaurant",
+    "category_tags": [
+      "Unagi"
+    ],
+    "neighborhood": "Sangubashi Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Unagi"
+    ],
+    "interest_tags": [
+      "Unagi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.678525037889095,
+      "lon": 139.69335728324654
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Awards: Selected for Tabelog Unagi \"Tabelog 100\" 2024 Selected for Tabelog Unagi \"Tabelog 100\" 2024 受賞・選出歴 閉じる 百名店 選出歴 うなぎ 百名店 2024 選出店 食べログ うなぎ 百名店 2024 選出店. Specializes in Unagi (Eel).",
+    "source_url": "https://tabelog.com/en/tokyo/A1318/A131810/13289291/",
+    "last_updated_ts": "2025-12-22T21:59:21.285471"
+  },
+  {
+    "id": "0ac61962824f",
+    "name": "Japanese Cuisine Yamazaki",
+    "type": "restaurant",
+    "category_tags": [
+      "Unagi"
+    ],
+    "neighborhood": "Takaracho Sta.",
+    "price_range": 4,
+    "halal": "unknown",
+    "cuisine": [
+      "Unagi"
+    ],
+    "interest_tags": [
+      "Unagi",
+      "Popular",
+      "Highly Rated"
+    ],
+    "coordinates": {
+      "lat": 35.67650453791524,
+      "lon": 139.7714340831714
+    },
+    "typical_duration_minutes": 60,
+    "best_time_of_day": "afternoon",
+    "short_description": "Savor authentic Japanese cuisine that brings out the best in ingredients through traditional techniques. Enjoy warm hospitality in a calming Japanese atmosphere. Experience authentic Japanese cuisine crafted by chefs who carry on the legacy of renowned restaurants in Kansai. Using carefully selected ingredients from Toyama Prefecture and across the country, th...Read moreey create dishes that highlight the natural flavors through meticulous cooking techniques. The monthly changing course is perfectly paired with local sake from Toyama and a wide variety of wines. At the counter seats, you can enjoy the lively atmosphere of the cooking process. Indulge in a luxurious moment savoring seasonal dishes and exquisite drinks with your loved ones.",
+    "source_url": "https://tabelog.com/en/tokyo/A1302/A130202/13287123/",
+    "last_updated_ts": "2025-12-22T21:59:23.766114"
+  }
+]
